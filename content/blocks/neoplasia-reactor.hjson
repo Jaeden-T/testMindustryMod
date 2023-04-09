@@ -1,0 +1,4 @@
+name: neoplasiaReactor
+buildTime: 30
+size = 5;
+liquidCapacity = 80f;
