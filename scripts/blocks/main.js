@@ -1,1 +1,1 @@
-blocks.neoplasiaReactor.buildTime = 30
+blocks.neoplasiaReactor.buildTime = 30;
