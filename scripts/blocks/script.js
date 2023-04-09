@@ -1,1 +1,1 @@
-blocks.neoplasia-reactor.buildTime = 30
+blocks.neoplasiaReactor.buildTime = 30
