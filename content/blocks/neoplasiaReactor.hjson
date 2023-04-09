@@ -1,0 +1,9 @@
+{
+  block:
+  {
+    neoplasiaReactor:
+    {
+      buildTime: 30
+    }
+  }
+}
